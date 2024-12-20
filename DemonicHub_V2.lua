@@ -160,7 +160,7 @@ local function LoadHub()
         [1176784616] = "https://raw.githubusercontent.com/Alan0947383/Coemssjsns/main/Protected_9180159468363336.lua.txt",
         [5004586661] = "https://raw.githubusercontent.com/Alan0947383/Coemssjsns/main/Protected_8275630821642050.lua.txt",
         [3825332406] = "https://raw.githubusercontent.com/Alan0947383/Important2/main/Protected_8681698493352034.lua.txt",
-        [1268927906] = "https://raw.githubusercontent.com/Alan0947383/Coemssjsns/main/Protected_4660097557401688.lua.txt",
+        [1268927906] = "https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua",
         [5084346631] = "https://raw.githubusercontent.com/Alan0947383/Sceipt/main/Protected_6104127350297687.lua.txt",
         [4966177615] = "https://raw.githubusercontent.com/Alan0947383/Coems/main/Protected_8381859233335395.lua.txt",
         [3476371299] = "https://raw.githubusercontent.com/Alan0947383/Starving-Artist/main/Protected_7100361731424888.lua.txt",
