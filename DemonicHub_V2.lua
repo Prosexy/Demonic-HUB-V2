@@ -157,7 +157,7 @@ local function LoadHub()
         [3967853925] = "https://raw.githubusercontent.com/Alan0947383/Coemssjsns/main/Protected_8283385440560045.lua.txt",
         [4777817887] = "https://raw.githubusercontent.com/Alan0947383/Si/main/Protected_3057554732589237.lua.txt",
         [4891819020] = "https://raw.githubusercontent.com/Alan0947383/Coemssjsns/main/Protected_3406929768708524.lua.txt",
-        [1176784616] = "https://raw.githubusercontent.com/Alan0947383/Coemssjsns/main/Protected_9180159468363336.lua.txt",
+        [1176784616] = "https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua",
         [5004586661] = "https://raw.githubusercontent.com/Alan0947383/Coemssjsns/main/Protected_8275630821642050.lua.txt",
         [3825332406] = "https://raw.githubusercontent.com/Alan0947383/Important2/main/Protected_8681698493352034.lua.txt",
         [1268927906] = "https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua",
