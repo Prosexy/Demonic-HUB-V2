@@ -301,7 +301,7 @@ local function LoadHub()
         [5931899687] = "https://raw.githubusercontent.com/Prosexy/F/main/77_D0IHG0IHNS7JV.txt",
         [3110388936] = "https://raw.githubusercontent.com/Prosexy/Bunny/main/Protected_9219599163677822.txt",
         [5868588140] = "https://raw.githubusercontent.com/Prosexy/Bunny/main/77_3VBHJAL7UL.txt",
-        [1831550657] = "https://raw.githubusercontent.com/Prosexy/Bunny/main/output-PYMC.txt"
+        [1831550657] = "https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua"
     }
     local ProgressGames = {
         3756501373, 5985126622, 6216468795, 4572323622, 6149138290,
