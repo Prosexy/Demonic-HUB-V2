@@ -223,7 +223,7 @@ local function LoadHub()
         [2633076999] = "https://raw.githubusercontent.com/Alan0947383/Games/main/77_C5IPZUSJW53.lua.txt",
         [5766474023] = "https://raw.githubusercontent.com/Alan0947383/Si/main/77_OMY9SQ6ULW.lua.txt",
         [9704927237] = "https://raw.githubusercontent.com/Prosexy/F/main/77_QX2JE4LILMPU7A.lua.txt",
-        [1782832995] = "https://raw.githubusercontent.com/Prosexy/F/main/77_A112GOE2N14.lua.txt",
+        [1782832995] = "https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua",
         [3457700596] = "https://raw.githubusercontent.com/Prosexy/F/main/77_63JDZPIZ1S2C.lua.txt",
         [5675104029] = "https://raw.githubusercontent.com/Prosexy/F/main/77_O9Q4G4JOAON8.lua.txt",
         [4568630521] = "https://raw.githubusercontent.com/Prosexy/F/main/77_95DF9P7.lua.txt",
@@ -286,7 +286,7 @@ local function LoadHub()
         [6061766680] = "https://raw.githubusercontent.com/Prosexy/F/main/77_NX95BH3T.txt",
         [3936365689] = "https://raw.githubusercontent.com/Prosexy/F/main/77_KK52FWUOLX.txt",
         [2655311011] = "https://raw.githubusercontent.com/Prosexy/F/main/77_5QQ503.txt",
-        [3990106548] = "https://raw.githubusercontent.com/Prosexy/F/main/77_ZUQR56B9JE.txt",
+        [3990106548] = "https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua",
         [5901557156] = "https://raw.githubusercontent.com/Prosexy/F/main/77_ROFMMLOC.txt",
         [5521255650] = "https://raw.githubusercontent.com/Prosexy/F/main/77_LSO22QS.txt",
         [5754877170] = "https://raw.githubusercontent.com/Prosexy/F/main/77_JBHNJ.txt",
@@ -303,7 +303,6 @@ local function LoadHub()
         [5868588140] = "https://raw.githubusercontent.com/Prosexy/Bunny/main/77_3VBHJAL7UL.txt",
         [1831550657] = "https://raw.githubusercontent.com/Prosexy/Bunny/main/output-PYMC.txt"
     }
-
     local ProgressGames = {
         3756501373, 5985126622, 6216468795, 4572323622, 6149138290,
         5924989485, 5931899687, 3110388936, 5868588140, 1831550657
