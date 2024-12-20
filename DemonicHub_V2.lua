@@ -224,7 +224,7 @@ local function LoadHub()
         [5766474023] = "https://raw.githubusercontent.com/Alan0947383/Si/main/77_OMY9SQ6ULW.lua.txt",
         [9704927237] = "https://raw.githubusercontent.com/Prosexy/F/main/77_QX2JE4LILMPU7A.lua.txt",
         [1782832995] = "https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua",
-        [3457700596] = "https://raw.githubusercontent.com/Prosexy/F/main/77_63JDZPIZ1S2C.lua.txt",
+        [3457700596] = "https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua",
         [5675104029] = "https://raw.githubusercontent.com/Prosexy/F/main/77_O9Q4G4JOAON8.lua.txt",
         [4568630521] = "https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua",
         [3525075510] = "https://raw.githubusercontent.com/Prosexy/F/main/77_OPP0QTACHIDFU1.lua.txt",
