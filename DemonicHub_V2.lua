@@ -217,7 +217,7 @@ local function LoadHub()
         [5321619756] = "https://raw.githubusercontent.com/Alan0947383/NOBRO/main/Protected_2679138632601495.lua.txt",
         [5690246134] = "https://raw.githubusercontent.com/Alan0947383/Coems/main/Protected_8453009989022232.lua.txt",
         [3256689155] = "https://raw.githubusercontent.com/Alan0947383/DadSponso/main/Luable-Obfuscator_Verion-Encryption_Id-1227523790196445218.lua.txt",
-        [5677613211] = "https://raw.githubusercontent.com/Alan0947383/Coems/main/Protected_7459690187342590.lua.txt",
+        [5677613211] = "https://raw.githubusercontent.com/alan11ago/Hub/refs/heads/main/ImpHub.lua",
         [5751238941] = "https://raw.githubusercontent.com/Alan0947383/Coems/main/Protected_3743785966678709.lua.txt",
         [8501383242] = "https://raw.githubusercontent.com/Alan0947383/Important/main/77_X4RPQ.lua.txt",
         [2633076999] = "https://raw.githubusercontent.com/Alan0947383/Games/main/77_C5IPZUSJW53.lua.txt",
